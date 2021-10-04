@@ -1,2 +1,2 @@
 # BDSM_Fake_news_detection
-Проект по DBMS
+Проект по BDSM
